@@ -1,1 +1,1 @@
-This is branch sun
+This is the branch of the Sun code
