@@ -1,5 +1,9 @@
 4.04 There is sun. The temperature in Ivano-Frankivsk is 15 degrees
 5.04 There is rain. The temperature in Ivano-Frankivsk is 10 degrees
 6.04 There is sun. The temperature in Ivano-Frankivsk is 15 degrees
+<<<<<<< HEAD
 7.04 There is rain. The temperature in Ivano-Frankivsk is 18 degrees
 8.04 There is sun. The temperature in Ivano-Frankivsk is 20 degrees
+=======
+7.04 There is rain. The temperature in Ivano-Frankivsk 10 degrees
+>>>>>>> 485bf77 (add weather for 7.04)
